@@ -4,7 +4,7 @@ Using Selenium, an XML and HTML parser, our software will scrape information fro
 
 ## Version History:
 - 1.0.0 - 1.0.5 : Initial creation of the software by [Samantha Stilwell-Carroll](https://github.com/samicarroll), [Gabriela Alvarez](https://github.com/gabrielaAlv1), and [Nick Haug](https://github.com/codernick27).
-- 1.0.6: Updated software regarding bugs by [Alyssa Chiego](https://github.com/AlyssaChiego), [Dirk Johnson](https://github.com/DirkJohnson4), [Gregory Bateham](https://github.com/gdxbs), [Caleb Blackburn](), and [Angel Santiago-Lopez]().
+- 1.0.6: Updated software regarding bugs by [Alyssa Chiego](https://github.com/AlyssaChiego), [Dirk Johnson](https://github.com/DirkJohnson4), [Gregory Bateham](https://github.com/gdxbs), [Caleb Blackburn](https://github.com/kc400386), and [Angel Santiago-Lopez]().
 
 ## Translation of keywords in Spanish 
 - Escorte: Escort
