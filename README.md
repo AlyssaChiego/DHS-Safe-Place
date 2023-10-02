@@ -2,6 +2,10 @@
 ## Description:
 Using Selenium, an XML and HTML parser, our software will scrape information from various websites searching for keywords commonly used in human trafficking. 
 
+## Version History:
+- 1.0.0 - 1.0.5 : Initial creation of the software by Samantha Stilwell-Carroll, Gabriela Alvarez, and Nick Haug.
+- 1.0.6: Updated software regarding (WORDS) by Dirk Johnson, Alyssa Chiego, Gregory Bateham, and Angel Santiago-Lopez.
+
 ## Translation of keywords in Spanish 
 - Escorte: Escort
 - Policia: police 
